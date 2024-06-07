@@ -1,0 +1,7 @@
+deepgram-sdk
+flask
+python-dotenv
+streamlit
+flask_cors
+sounddevice 
+scipy
