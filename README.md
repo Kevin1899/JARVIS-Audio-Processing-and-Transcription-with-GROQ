@@ -16,7 +16,7 @@ This project leverages advanced audio processing capabilities combined with GROQ
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/jarvis-audio-processing.git
+git clone https://github.com/Kevin1899/jarvis-audio-processing.git
 cd jarvis-audio-processing
 ```
 2. **Set Up Virtual Environment**
